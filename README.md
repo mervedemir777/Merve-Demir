@@ -1,20 +1,15 @@
-# Merve-Demir
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Merve+Demir!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Merhaba!+👋;+Ben+Merve+Demir!;" />
 </h1>
-
-<h3 align="center">A passionate software developer from Türkiye</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently focusing on backend development  
- 🌱 I’m improving myself in Java, Kotlin and Spring Boot  
- ⚡ I’m living in Istanbul, Türkiye  
+  
+ 🌱 Java, Kotlin ve Spring Boot alanlarında kendimi geliştiriyorum  
 
 <br/>
-📫 Find me on
+📫 Benimle iletişime geç:
 <br/>
 <br/>
 
@@ -27,7 +22,7 @@
 <br/>
 <br/>
 
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<h2 align="center">⚒️ Diller - Frameworkler - Araçlar ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,firebase,sqlite,postgres,postman,git,linkedin" />
@@ -36,5 +31,6 @@
 <br/><br/><br/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Connect+with+me+on+LinkedIn!;Let's+build+something+awesome+:)" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ziyaret+ettiğin+için+teşekkürler!+✌️;+LinkedIn'den+bağlantı+kuralım!;Birlikte+harika+projeler+üretebiliriz+:)" />
 </h3>
+
