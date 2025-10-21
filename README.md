@@ -6,7 +6,7 @@
 
 <div align="center">
   
- 🌱 Java, Kotlin ve Spring Boot alanlarında kendimi geliştiriyorum  
+ 🌱 Kotlin ve Spring Boot ile projeler üretiyorum 
 
 <br/>
 📫 Benimle iletişime geç:
