@@ -25,7 +25,7 @@
 <h2 align="center">⚒️ Diller - Frameworkler - Araçlar ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,firebase,sqlite,postgres,postman,git,linkedin" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,firebase,sqlite,postgres,postman,git,linkedin,docker,kafka,redis" />
 </div>
 
 <br/><br/><br/>
